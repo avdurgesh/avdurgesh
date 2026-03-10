@@ -169,11 +169,14 @@ focus_areas :
 
 <div align="center">
 
-![Durgesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=avdurgesh&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=e94560&icon_color=e94560&text_color=a8b2d8)
+![Durgesh's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=avdurgesh&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=avdurgesh&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=e94560&text_color=a8b2d8)
+![Top Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=avdurgesh&theme=github_dark)
+![Top Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=avdurgesh&theme=github_dark)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=avdurgesh&theme=midnight-purple&hide_border=true&background=0d1117&ring=e94560&fire=e94560&currStreakLabel=a8b2d8)
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=avdurgesh&theme=dark&hide_border=true&background=0d1117&ring=e94560&fire=e94560&currStreakLabel=a8b2d8)
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=avdurgesh&theme=github_dark)
 
 </div>
 
