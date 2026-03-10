@@ -165,20 +165,26 @@ focus_areas :
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-![Durgesh's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=avdurgesh&theme=github_dark)
-
-![Top Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=avdurgesh&theme=github_dark)
-![Top Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=avdurgesh&theme=github_dark)
-
-![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=avdurgesh&theme=dark&hide_border=true&background=0d1117&ring=e94560&fire=e94560&currStreakLabel=a8b2d8)
-
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=avdurgesh&theme=github_dark)
+[![trophy](https://github-profile-trophy.vercel.app/?username=avdurgesh&theme=darkhub&no-frame=true&row=1&column=6)](https://github.com/avdurgesh)
 
 </div>
+
+> 💡 **Tip:** Pin your best repositories on your [GitHub profile](https://github.com/avdurgesh) to showcase your work directly!
+
+### 🧮 At a Glance
+
+| Metric | Value |
+|--------|-------|
+| 👨‍💻 GitHub Since | Jan 2019 |
+| 🏢 Current Role | Sr. Consultant @ Rockwell Automation |
+| 🌍 Working Across | AWS · Azure · GCP |
+| 🏭 Industry Focus | Mining · Manufacturing · Dairy |
+| 🎓 Certifications | 7 Active (Microsoft · Google · Cognite) |
+| 📚 Currently Studying | M.Tech AI & ML @ BITS Pilani |
 
 ---
 
@@ -189,3 +195,4 @@ focus_areas :
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=100&section=footer"/>
 
 </div>
+
