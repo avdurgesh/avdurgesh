@@ -16,12 +16,14 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 
-<!-- Dynamic Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Durgesh%20Verma&fontSize=60&fontColor=e94560&fontAlignY=38&desc=Sr.%20Tech%20Consultant%20%7C%20Cloud%20%7C%20DevOps%20%7C%20Industrial%20DataOps%20%7C%20MLOps&descAlignY=58&descSize=16&descColor=a8b2d8"/>
+<!-- Animated Header SVG — upload header.svg to your repo root -->
+<img src="./header.svg" width="100%" alt="Durgesh Verma - Sr. Tech Consultant"/>
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/durgeshverma-374b50179)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Durgesh.cdac@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=avdurgesh&style=for-the-badge&color=e94560)](https://github.com/avdurgesh)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Durgesh.cdac@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/avdurgesh)
 
 </div>
 
@@ -113,6 +115,13 @@ focus_areas :
 
 ---
 
+## 💻 Terminal
+
+<!-- Animated Terminal SVG — upload terminal.svg to your repo root -->
+<img src="./terminal.svg" width="100%" alt="Terminal Animation"/>
+
+---
+
 ## 💼 Work Experience
 
 ### 🔵 Rockwell Automation &nbsp;|&nbsp; Nov 2021 – Present
@@ -165,34 +174,9 @@ focus_areas :
 
 ---
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=avdurgesh&theme=darkhub&no-frame=true&row=1&column=6)](https://github.com/avdurgesh)
-
-</div>
-
-> 💡 **Tip:** Pin your best repositories on your [GitHub profile](https://github.com/avdurgesh) to showcase your work directly!
-
-### 🧮 At a Glance
-
-| Metric | Value |
-|--------|-------|
-| 👨‍💻 GitHub Since | Jan 2019 |
-| 🏢 Current Role | Sr. Consultant @ Rockwell Automation |
-| 🌍 Working Across | AWS · Azure · GCP |
-| 🏭 Industry Focus | Mining · Manufacturing · Dairy |
-| 🎓 Certifications | 7 Active (Microsoft · Google · Cognite) |
-| 📚 Currently Studying | M.Tech AI & ML @ BITS Pilani |
-
----
-
 <div align="center">
 
 *"Engineering the bridge between industrial operations and the cloud — one pipeline at a time."*
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=100&section=footer"/>
 
 </div>
 
